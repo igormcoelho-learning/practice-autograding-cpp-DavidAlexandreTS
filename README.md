@@ -7,7 +7,7 @@ the activity* and hit the link named **update**.
 
 If you want to practice this activity, just follow this link: https://classroom.github.com/a/X_8PAk4h
 
-## David Silva Alexandre
+## Full Name of the Student
 
 **David Silva Alexandre**
 
